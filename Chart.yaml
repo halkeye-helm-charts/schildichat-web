@@ -24,4 +24,4 @@ annotations:
   artifacthub.io/containsSecurityUpdates: "false"
   artifacthub.io/images: |
     - name: element-web
-      image: ghcr.io/schildichat/schildichat-web:latest
+      image: "ghcr.io/schildichat/schildichat-web:latest"
