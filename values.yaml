@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: "ghcr.io/schildichat/schildichat-web"
-  tag: "latest@sha256:bcba1b1182b859cc1f921004ec9f0f8e206052c05e53f011dd6580e386946fbd"
+  tag: "latest@sha256:a87f572878059851c38e0b18f5548aea8f3fbff744c09efe17d5cb06e5aa5cb2"
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
